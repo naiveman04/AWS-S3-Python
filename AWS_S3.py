@@ -3,7 +3,6 @@ import botocore
 import random
 import string
 import datetime
-import matplotlib.pyplot as plt
 import numpy as np
 
 
