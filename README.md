@@ -1,8 +1,6 @@
 # AWS-S3-Python
 Upload, read, write and download files in and from S3 bucket using Python.
 
-<br>
-
 This is an example of using Boto3, AWS API for python, for creating S3(Simple Storage Service) bucket(s) as well as uploading/downloading/deleting files from bucket(s).
 
 #### Creating S3 resource and client
